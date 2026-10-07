@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">uzinfocom-task</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_order">Order</string>
+
+    <string name="category_cafe">Kafe</string>
+    <string name="category_restaurant">Restoran</string>
+    <string name="category_supermarket">Supermarket</string>
+    <string name="category_atm">Bankomat</string>
+    <string name="category_pharmacy">Dorixona</string>
+    <string name="category_parking">Avtoturargoh</string>
+    <string name="category_fuel">Yoqilg\'i quyish</string>
+    <string name="category_hospital">Shifoxona</string>
+    <string name="category_other">Boshqa</string>
+
+    <string name="poi_rating">Reyting: %1$.1f</string>
+    <string name="poi_no_rating">Reyting yo\'q</string>
+    <string name="poi_open">Hozir ochiq</string>
+    <string name="poi_closed">Hozir yopiq</string>
+
+    <string name="playback_play">Davom ettirish</string>
+    <string name="playback_pause">To\'xtatish</string>
+    <string name="playback_speed_kmh">%1$d km/soat</string>
+    <string name="playback_multiplier">%1$dx</string>
+    <string name="playback_signal_lost">GPS signal yo\'q</string>
+    <string name="playback_follow">Mashinani kuzatish</string>
+</resources>
